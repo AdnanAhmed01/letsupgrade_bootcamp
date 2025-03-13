@@ -9,4 +9,8 @@ add();
 add();
 add()
 
+function p2(){
+    console.log("this is p2 here");
+}
+
 

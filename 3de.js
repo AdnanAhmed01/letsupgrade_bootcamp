@@ -5,8 +5,8 @@ function counter (){
     }
 }
 const add = counter();
-console.log(add());
-console.log(add());
-console.log(add());
+add();
+add();
+add()
 
 
